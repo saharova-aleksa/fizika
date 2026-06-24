@@ -1,4 +1,4 @@
-# Ответы на 67 вопросов по физике
+# Ответы на экзамен по физике
 
 ## Тема 1. Магнитное поле. Электромагнитная индукция
 
@@ -594,19 +594,11 @@ $$
 
 Интегральная форма:
 
-$$
-\oint \vec{E}\cdot d\vec{l}
-=
--\frac{d\Phi_B}{dt}
-$$
+<img width="160" height="64" alt="image" src="https://github.com/user-attachments/assets/da9f3d44-968a-4aca-b95f-5334523d6bac" />
 
 Дифференциальная форма:
 
-$$
-\nabla \times \vec{E}
-=
--\frac{\partial \vec{B}}{\partial t}
-$$
+<img width="137" height="59" alt="image" src="https://github.com/user-attachments/assets/4ac4a31f-fe11-46ea-987b-ac231e27b562" />
 
 где E - напряжённость электрического поля
 
@@ -616,22 +608,11 @@ $$
 
 Интегральная форма:
 
-$$
-\oint \vec{H}\cdot d\vec{l}
-=
-I+
-\frac{d\Phi_D}{dt}
-$$
+<img width="146" height="56" alt="image" src="https://github.com/user-attachments/assets/d15e770f-f441-497c-b28d-d3130822d11e" />
 
 Дифференциальная форма:
 
-$$
-\nabla \times \vec{H}
-=
-\vec{j}
-+
-\frac{\partial \vec{D}}{\partial t}
-$$
+<img width="133" height="55" alt="image" src="https://github.com/user-attachments/assets/8fd3e07f-02e5-43de-b5ae-c5b5ef22d01d" />
 
 где $\vec j$ — плотность тока проводимости, H - напряжённость магнитного поля
 
