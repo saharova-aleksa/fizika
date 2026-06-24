@@ -595,18 +595,17 @@ $$
 Интегральная форма:
 
 $$
-\oint\limits_L \vec{E}\cdot d\vec{l}
+\oint \vec{E}\cdot d\vec{l}
 =
--\frac{d}{dt}
-\int\limits_S \vec{B}\cdot d\vec{S}
+-\frac{d\Phi_B}{dt}
 $$
 
 Дифференциальная форма:
 
 $$
-\nabla \times \vec E
+\nabla \times \vec{E}
 =
--\frac{\partial \vec B}{\partial t}
+-\frac{\partial \vec{B}}{\partial t}
 $$
 
 где E - напряжённость электрического поля
@@ -618,21 +617,20 @@ $$
 Интегральная форма:
 
 $$
-\oint\limits_L \vec{H}\cdot d\vec{l}
+\oint \vec{H}\cdot d\vec{l}
 =
 I+
-\frac{d}{dt}
-\int\limits_S \vec{D}\cdot d\vec{S}
+\frac{d\Phi_D}{dt}
 $$
 
 Дифференциальная форма:
 
 $$
-\nabla \times \vec H
+\nabla \times \vec{H}
 =
-\vec j
+\vec{j}
 +
-\frac{\partial \vec D}{\partial t}
+\frac{\partial \vec{D}}{\partial t}
 $$
 
 где $\vec j$ — плотность тока проводимости, H - напряжённость магнитного поля
